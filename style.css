@@ -221,6 +221,19 @@ input[type="text"],input[type="email"]{
     height: 215px;
 }
 
+.related-post img{
+    border: 5px solid #fff;
+    float: left;
+    margin-top: 5px;
+    margin-right: 8px;
+    width: 194px;
+    height: 125px;
+}
+
+.related-post img:hover{
+    opacity: 0.7;
+}
+
 .post-content p{
     font-size: 16px !important;
     line-height: 20px;
