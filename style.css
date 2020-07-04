@@ -9,6 +9,7 @@ body{
     line-height: 18px;
     color: #000;
     background: url('./images/more-leaves.png') repeat;
+    position: relative;
 }
 
 .template{
@@ -359,4 +360,15 @@ input[type="text"],input[type="email"]{
 .footer-menu ul li a{
     text-decoration: none;
     color: rgb(99, 45, 131);
+}
+
+.fixed-social-media{
+    position: fixed;
+    left: 0;
+    top: 200px;
+    width: 60px;
+}
+
+.fixed-social-media img{
+    width: 50px;
 }
