@@ -138,6 +138,7 @@ input[type="text"],input[type="email"]{
 
 .body-content{
     background-color: #fff;
+    border: 1px solid #63b322;
 }
 
 .main-content{
@@ -147,6 +148,7 @@ input[type="text"],input[type="email"]{
     padding: 8px 15px;
     background: #e6ddc7;
     border: 1px solid #4fa992;
+    margin-left: 5px;
 }
 
 
@@ -262,12 +264,13 @@ input[type="text"],input[type="email"]{
 
 .side-bar{
     float: right;
-    width: 253px;
+    width: 242px;
     margin-top: 15px;
     background-color: #e6ddc7;
     padding: 10px;
     margin-bottom: 10px;
     border: 1px solid #4fa992;
+    margin-right: 6px;
 }
 
 .same-sidebar{
